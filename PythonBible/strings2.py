@@ -20,6 +20,6 @@ print(word[word.index("Alex"):word.index("eat")])
 # 'Alexander the Gr'
 print(word[ :word.index("the")])
 # Alexander
-print(word)
+print(word)b
 # 'Alexander the Great'
  
